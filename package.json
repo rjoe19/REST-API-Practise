@@ -1,0 +1,26 @@
+{
+  "name": "REST-API-Practise",
+  "version": "1.0.0",
+  "description": "https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjoe19/REST-API-Practise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjoe19/REST-API-Practise/issues"
+  },
+  "homepage": "https://github.com/rjoe19/REST-API-Practise#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.19"
+  }
+}
